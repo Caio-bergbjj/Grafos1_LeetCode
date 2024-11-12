@@ -10,10 +10,15 @@
 | 20/0028154 |  Thiago Ribeiro Freitas |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este projeto consiste na resolução de um problema específico de grafos do LeetCode, utilizando a linguagem Python para garantir desempenho e clareza na solução. A proposta é modificar pesos das arestas para alcançar o objetivo especificado no problema, explorando estruturas de dados otimizadas.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+|Problema | Descrição | Dificuldade|
+| -- | -- |
+| 2608  |  Shortest Cycle in a Graph | Difícil |
+
 
 ## Instalação 
 **Linguagem**: Python<br>
