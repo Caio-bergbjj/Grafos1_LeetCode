@@ -1,7 +1,3 @@
-Aqui está a versão revisada do README com as restrições devidamente formatadas em Markdown:
-
----
-
 # Shortest Cycle in a Graph
 
 **Problema disponível no LeetCode:** [Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph/)
